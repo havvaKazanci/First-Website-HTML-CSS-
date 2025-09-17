@@ -8,3 +8,12 @@ I learned how to bring a page to life with very simple Javascript code.
 
 For download the codes as zip:
 https://github.com/havvaKazanci/First-Website-HTML-CSS-/archive/refs/heads/main.zip
+
+**Important:** After downloading, make sure to **extract all the files** before opening the website.  
+
+If you open `index.html` directly from the ZIP without extracting, images may not load properly.
+After extracting, open the `index.html` file in your browser to view the website.
+
+---
+
+Thanks for checking out project!
