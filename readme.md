@@ -6,4 +6,5 @@ I learned basic HTML tags.
 I learned how to style with CSS.
 I learned how to bring a page to life with very simple Javascript code.
 
-
+For download the codes as zip:
+https://github.com/havvaKazanci/First-Website-HTML-CSS-/archive/refs/heads/main.zip
